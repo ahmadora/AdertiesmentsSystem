@@ -1,0 +1,1 @@
+<a href="{{$content['link']}}">{{$content['text']}}</a>
